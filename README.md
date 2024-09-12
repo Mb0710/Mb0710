@@ -21,7 +21,7 @@ I'm **Momolbarjo**, a computer engineering student at **CYTECH** (France) with a
 </div>
 
 
-## 📫 Let's Connect!
+## 😊 Enjoy !
 
 Feel free to explore my repositories !
 
