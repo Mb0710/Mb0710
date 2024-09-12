@@ -2,7 +2,7 @@
 
 I'm **Momolbarjo**, a computer engineering student at **CYTECH** (France) with a passion for coding and problem-solving. 🚀
 
-## 💡 Skilled in:
+## 💡 continuously learning :
 
   - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
