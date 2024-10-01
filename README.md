@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Momolbarjo**, a computer engineering student at **CYTECH** (France) with a passion for coding and problem-solving. 🚀
+I'm **Momolbarjo**, a computer engineering student at **CYTECH** (France).
 
 ## 💡 Continuously learning :
 
