@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Mb**, a computer engineering student at **CYTECH** (France).
+I'm **Mohamed**, a computer engineering student at **CYTECH** (France).
 
 ## 💡 Continuously learning :
 
