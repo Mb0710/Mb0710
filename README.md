@@ -11,6 +11,7 @@ I'm **Mohamed**, a computer engineering student at **CYTECH** (France).
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
   -  <img src="https://kaboomjs.com/static/img/kaboomjs.png" alt="Kaboom.js" width="100px" />
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  - ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 💻 About Me
 
